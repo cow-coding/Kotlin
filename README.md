@@ -1,1 +1,3 @@
-# Kotlin
+# This Repository is...
+
+## About Kotlin study and project
