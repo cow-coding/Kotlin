@@ -7,4 +7,5 @@ fun main() {
     println("Long: ${Long.MIN_VALUE}~${Long.MAX_VALUE}")
     println("Float: ${Float.MIN_VALUE}~${Float.MAX_VALUE}")
     println("Double: ${Double.MIN_VALUE}~${Double.MAX_VALUE}")
+
 }
